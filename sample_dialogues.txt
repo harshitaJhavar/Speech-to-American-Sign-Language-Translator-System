@@ -1,0 +1,17 @@
+A triangle has three sides.
+The perfect square of two is four.
+The shape of square has four sides.
+Two plus two is four.
+The obtuse angle is greater than right angle.
+The prime factorization of eight is two multiply two multiply two.
+Six on division by three has quotient two, dividend six, divisor three and remainder zero.
+Four factorial is twenty four.
+Four factorial is less than seven factorial.
+A linear equation has one slope and one slope intercept.
+Two is an outlier to the given equation.
+An isosceles triangle has two equal sides.
+The least common multiple of four and three is twelve.
+Hyperbola and cone have different axis of symmetry.
+The square root of nine is three.
+ 
+
